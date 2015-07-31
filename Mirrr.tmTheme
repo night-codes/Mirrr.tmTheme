@@ -9,7 +9,7 @@
 	<key>comment</key>
 	<string></string>
 	<key>name</key>
-	<string>MirrrTheme</string>
+	<string>Mirrr</string>
 	<key>settings</key>
 	<array>
 		<dict>
@@ -554,7 +554,7 @@
 	<key>colorSpaceName</key>
 	<string>sRGB</string>
 	<key>semanticClass</key>
-	<string>theme.dark.last_night</string>
+	<string>theme.dark.mirrr</string>
 	<key>author</key>
 	<string>alex.mirrr</string>
 </dict>
